@@ -1,4 +1,4 @@
-# Implementation of a Contextual Chatbot in TensorFlow.  
+# Implementation of a Contextual Chatbot in TensorFlow 
 Simple chatbot implementation with TensorFlow. 
 
 - The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
